@@ -1,0 +1,10 @@
+br/com/loja/HistoricoModel.java
+ br.com.loja.HistoricoModel
+br/com/loja/LojaView.java
+ br.com.loja.LojaView
+loja/Loja.java
+ loja.Loja
+br/com/loja/LojaModel.java
+ br.com.loja.LojaModel
+br/com/loja/LojaController.java
+ br.com.loja.LojaController
